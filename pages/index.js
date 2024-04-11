@@ -21,3 +21,4 @@ export default function Home() {
     </div>
   )
 }
+<a href="https://delegatecfo.com/">Fractional CFO</a>
